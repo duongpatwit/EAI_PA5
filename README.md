@@ -26,4 +26,4 @@ The Mean Squared Error dropped significantly (around half)\
 multiple stacked smaller ones are better\
 \
 `Solve for the padding (P), in terms of I, F and S, if we want the input and output size to remain the same. `\
-$P = \frac{S\times(I-1)-I+F}{2}$
+P = (S*times(I-1)-I+F)/2
